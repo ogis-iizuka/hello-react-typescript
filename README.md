@@ -1,3 +1,17 @@
+TypeScriptの勉強
+
+### basic
+
+https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+genericsあたりまでを実装。(src/test/basic)
+
+
+
+------
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
