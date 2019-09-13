@@ -6,7 +6,15 @@ https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 genericsあたりまでを実装。(src/test/basic)
 
+### react app.
 
+https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter
+
+Adding style までを実施。
+以下は未実施
+
+* Writing tests with Jest
+* Adding state management (redux)
 
 ------
 
